@@ -1,0 +1,2 @@
+use diu;
+show tables;
